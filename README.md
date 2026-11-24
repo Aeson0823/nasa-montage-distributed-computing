@@ -58,7 +58,7 @@ The project demonstrates the practical implementation of:
 
 The distributed environment consists of five AWS EC2 instances.
 
-![AWS Architecture](diagrams/aws-architecture.png)
+![AWS Architecture](nasa-montage-distributed-computing/diagrams/aws-architecture.png)
 
 ### Infrastructure Components
 
