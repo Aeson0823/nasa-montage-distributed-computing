@@ -97,7 +97,7 @@ The execution hosts perform the assigned computational tasks.
 
 The project uses 13 Montage commands, organized into two major processing phases.
 
-![Montage Workflow](diagrams/montage-workflow.png)
+![Montage Workflow](nasa-montage-distributed-computing/diagrams/montage-workflow.png)
 
 ### Phase 1: Initial Mosaic Generation
 
