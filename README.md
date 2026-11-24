@@ -263,7 +263,7 @@ The final output is an astronomical mosaic generated after image reprojection, o
 
 ### Final Montage Output
 
-![Final Montage Mosaic](results/m17_mosaic.png)
+![Final Montage Mosaic](nasa-montage-distributed-computing/results/m17_mosaic.png)
 
 Output files:
 
