@@ -1,0 +1,10 @@
+executable              = /mnt/data/Montage/bin/mFitExec
+arguments               = diffs.tbl fits.tbl diffdir
+
+universe                = vanilla
+log                     = task_I.log
+output                  = task_I.out
+error                   = task_I.err
+should_transfer_files   = NO
+initialdir              = /mnt/data/assignment
+queue
