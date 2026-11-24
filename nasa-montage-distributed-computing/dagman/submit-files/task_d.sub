@@ -1,0 +1,10 @@
+executable              = /mnt/data/Montage/bin/mImgtbl
+arguments               = Kprojdir images.tbl
+
+universe                = vanilla
+log                     = task_D.log
+output                  = task_D.out
+error                   = task_D.err
+should_transfer_files   = NO
+initialdir              = /mnt/data/assignment
+queue

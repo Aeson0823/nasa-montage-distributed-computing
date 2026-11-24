@@ -1,0 +1,11 @@
+executable              = /mnt/data/Montage/bin/mImgtbl
+# Arguments: [input_dir] [output_table]
+arguments               = Kimages rimages.tbl
+
+universe                = vanilla
+log                     = task_A.log
+output                  = task_A.out
+error                   = task_A.err
+should_transfer_files   = NO
+initialdir              = /mnt/data/assignment
+queue

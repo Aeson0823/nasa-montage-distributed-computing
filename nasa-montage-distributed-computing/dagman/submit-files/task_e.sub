@@ -1,0 +1,12 @@
+executable              = /mnt/data/Montage/bin/mAdd
+# Arguments: -p [proj_dir] [table] [template] [output_fits]
+arguments               = -p Kprojdir images.tbl Ktemplate.hdr m17_uncorrected.fits
+
+universe                = vanilla
+log                     = task_E.log
+output                  = task_E.out
+error                   = task_E.err
+should_transfer_files   = NO
+initialdir              = /mnt/data/assignment
+request_memory          = 1GB
+queue

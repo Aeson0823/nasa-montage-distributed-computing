@@ -1,0 +1,10 @@
+executable              = /mnt/data/Montage/bin/mViewer
+arguments               = -ct 1 -gray m17_mosaic.fits -1s max gaussian-log -out m17_mosaic.png
+
+universe                = vanilla
+log                     = task_M.log
+output                  = task_M.out
+error                   = task_M.err
+should_transfer_files   = NO
+initialdir              = /mnt/data/assignment
+queue
